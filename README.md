@@ -1,6 +1,6 @@
 #BoomApp
 
-A simple iOS application built using Swift 2 &amp; Xcode
+A simple iOS application built using Swift 2 &amp; Xcode 7
 
 Feel free to download this project to see how the app works and if you want to download the project & add to it, feel free to do so!
 
