@@ -1,6 +1,6 @@
 <h1> 📱 BoomApp </h1>
 
-A simple iOS application built using Swift 2 &amp; Xcode 7
+<h4> A simple iOS application built using Swift 2 &amp; Xcode 7. </h4>
 
 The purpose of this application is to demonstrate a UIButton being used to display an hidden image.
 
